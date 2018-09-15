@@ -1,5 +1,5 @@
 # Matrix-Modification
-Algorithm that uses a "unpeeling" method to operate on matrices.
+Algorithm that uses an "unpeeling" method to operate on matrices.
 
 # Problem
 We have a m*n matrix that needs to be manipulated. 
